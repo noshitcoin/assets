@@ -1,6 +1,6 @@
 {
     "name": "NOSHIT",
-    "type": "BEP2",
+    "type": "BEP20",
     "symbol": "NSH",
     "decimals": 9,
     "website": "https://noshitcoin.io",
